@@ -12,14 +12,14 @@ Welcome to my cybersecurity portfolio. This repository showcases hands-on labs a
 - Currently learning: SIEM, Incident Response, Network Analysis
 
 ## 🛠️ Skills and Associated Projects
-- SIEM: WAZUH, Ubuntu | <a href="https://github.com/johnbann-Apex/Build-a-SIEM-Lab/tree/main">Build a SIEM Lab</a>
+- SIEM: WAZUH, Ubuntu | <a href="https://github.com/johnbann-Apex/Build-a-SIEM-Home-Lab/tree/main">Build a SIEM Lab</a>
 - Networking: TCP/IP, Wireshark, Wazuh
 - Security Tools: Python, CVE/Vulnerability Detection | <a href="https://github.com/johnbann-Apex/Network-Scanner">Python Network Scanner</a>
 - Operating Systems: Windows, Linux (Kali)
 
 ## 📂 Projects
 
-### 🔍 <a href="https://github.com/johnbann-Apex/Build-a-SIEM-Lab/tree/main">Build a SIEM Lab</a>
+### 🔍 <a href="https://github.com/johnbann-Apex/Build-a-SIEM-Home-Lab/tree/main">Build a SIEM Lab</a>
 Simulated SIEM file integrity monitoring, log analysis and intrusion detection using Virtual machines.
 
 ### 🛡️ <a href="https://github.com/johnbann-Apex/Network-Scanner">Python Network Scanner</a>
