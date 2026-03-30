@@ -13,9 +13,10 @@ Welcome to my cybersecurity portfolio. This repository showcases hands-on labs a
 
 ## 🛠️ Skills and Associated Projects
 - SIEM: WAZUH, Ubuntu | <a href="https://github.com/johnbann-Apex/Build-a-SIEM-Home-Lab/tree/main">Build a SIEM Lab</a>
-- Networking: TCP/IP, Wireshark, Wazuh
+- Networking: TCP/IP, Wireshark, Wazuh, DNS | <a href="https://github.com/johnbann-Apex/Pi-hole-DNS-DHCP-Server/tree/main">Pi-hole DNS & DHCP Server on Raspberry Pi</a>
 - Security Tools: Python, CVE/Vulnerability Detection | <a href="https://github.com/johnbann-Apex/Network-Scanner">Python Network Scanner</a>
 - Operating Systems: Windows, Linux (Kali)
+
 
 ## 📂 Projects
 
@@ -25,8 +26,8 @@ Simulated SIEM file integrity monitoring, log analysis and intrusion detection u
 ### 🛡️ <a href="https://github.com/johnbann-Apex/Network-Scanner">Python Network Scanner</a>
 Python scanner for IP address port vulnerabilities, CVE detection with windows GUI.
 
-### 🌐 Work In-Progress
-Further information in next update.
+### 🌐 <a href="https://github.com/johnbann-Apex/Pi-hole-DNS-DHCP-Server/tree/main">Pi-hole DNS & DHCP Server on Raspberry Pi</a>
+Create your own network-wide ad-blocking DNS and DHCP server using a Raspberry Pi and Pi-hole.
 
 ## 📜 Certifications
 
